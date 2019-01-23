@@ -10,3 +10,5 @@ chapter 5 区块链产业链中游——交易
 chapter 6. 区块链产业中游——存储
 chapter 7.区块链产业链下游
 chapter 8.区块链到账长什么样？
+chapter 9.区块链资产的特点
+chapter 10.区块链的技术原理(1)
