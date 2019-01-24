@@ -12,3 +12,5 @@ chapter 7.区块链产业链下游
 chapter 8.区块链到账长什么样？
 chapter 9.区块链资产的特点
 chapter 10.区块链的技术原理(1)
+chapter 10.区块链的技术原理(2)
+chapter 11.区块链扩容和分叉
